@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt_um_example (
+module time_domain_comparator_its (
     input  wire       VGND,
     input  wire       VDPWR,    // 1.8v power supply
 //    input  wire       VAPWR,    // 3.3v power supply
