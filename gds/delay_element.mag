@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731262622
+timestamp 1731265361
 << locali >>
 rect -106 1173 9858 1175
 rect -106 1139 61 1173
@@ -1572,40 +1572,40 @@ rect 6309 -1565 6321 -1513
 rect 6373 -1565 6375 -1513
 rect -107 -1579 6375 -1565
 use sky130_fd_pr__pfet_01v8_lvt_NZTZAV  XM1
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 1590 0 1 356
 box -1696 -819 1696 819
 use sky130_fd_pr__pfet_01v8_lvt_NZTZAV  XM2
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 4876 0 1 356
 box -1696 -819 1696 819
 use sky130_fd_pr__nfet_01v8_lvt_PHPD3W  XM3
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 1589 0 1 -1237
 box -1686 -400 1686 400
 use sky130_fd_pr__pfet_01v8_lvt_NZTZAV  XM6
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 8162 0 1 356
 box -1696 -819 1696 819
 use sky130_fd_pr__nfet_01v8_lvt_PHPD3W  XM7
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 4875 0 1 -1237
 box -1686 -400 1686 400
 use sky130_fd_pr__nfet_01v8_lvt_PHPD3W  XM8
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 8161 0 1 -1237
 box -1686 -400 1686 400
 << labels >>
-flabel metal1 s -118 1169 -7 1280 0 FreeSans 1250 0 0 0 VDD
+flabel metal1 s -118 1169 -7 1280 0 FreeSans 1000 0 0 0 VDD
 port 1 nsew
-flabel metal1 s -107 -1747 -7 -1647 0 FreeSans 1250 0 0 0 VSS
+flabel metal1 s -107 -1747 -7 -1647 0 FreeSans 1000 0 0 0 VSS
 port 2 nsew
-flabel metal2 s -42 1027 38 1107 0 FreeSans 1250 0 0 0 VIP
+flabel metal2 s -42 1027 38 1107 0 FreeSans 1000 0 0 0 VIP
 port 3 nsew
-flabel metal2 s -38 -1579 42 -1499 0 FreeSans 1250 0 0 0 VIN
+flabel metal2 s -38 -1579 42 -1499 0 FreeSans 1000 0 0 0 VIN
 port 4 nsew
-flabel metal1 s 9711 -687 9761 -637 0 FreeSans 1250 0 0 0 OUT
+flabel metal1 s 9711 -687 9761 -637 0 FreeSans 1000 0 0 0 OUT
 port 5 nsew
-flabel metal2 s -107 -837 13 -717 0 FreeSans 1250 0 0 0 IN
+flabel metal2 s -107 -837 13 -717 0 FreeSans 1000 0 0 0 IN
 port 6 nsew
 << end >>

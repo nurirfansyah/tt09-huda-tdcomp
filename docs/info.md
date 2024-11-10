@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a time domain comparator.
+komparator ini bekerja dengan memanfaatkan delay pafa delay element yang dikontrol oleh perbedaan tegangan pada input
 
 ## How to test
 
-To test the comparator, simply apply two input voltages.
+tinggal pasang aja
 
 ## External hardware
 
-Use typical hardware to test comparators.
+osiloskop

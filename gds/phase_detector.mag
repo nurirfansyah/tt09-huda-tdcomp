@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731262622
+timestamp 1731265361
 << nwell >>
 rect -1174 918 1367 1956
 rect 199 905 372 918
@@ -521,64 +521,64 @@ rect -132 1729 792 1793
 rect 856 1729 863 1793
 rect -203 1717 863 1729
 use sky130_fd_sc_hd__nand2_1  sky130_fd_sc_hd__nand2_1_0
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 -98 0 1 644
 box -38 -48 314 592
 use sky130_fd_sc_hd__nand2_1  sky130_fd_sc_hd__nand2_1_1
-timestamp 1731262622
+timestamp 1731265361
 transform 1 0 360 0 1 644
 box -38 -48 314 592
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM1
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 -655 -1 0 1761
 box -211 -519 211 519
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM2
-timestamp 1731262622
+timestamp 1731265361
 transform 0 -1 -655 1 0 1445
 box -211 -519 211 519
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM3
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 1193 -1 0 1761
 box -211 -519 211 519
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM4
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 1193 -1 0 1445
 box -211 -519 211 519
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM5
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 -655 -1 0 1129
 box -211 -519 211 519
 use sky130_fd_pr__nfet_01v8_TGNW9T  XM6
-timestamp 1731262622
+timestamp 1731265361
 transform 0 -1 -864 1 0 707
 box -201 -300 201 300
 use sky130_fd_pr__nfet_01v8_TGNW9T  XM7
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 -864 -1 0 391
 box -201 -300 201 300
 use sky130_fd_pr__pfet_01v8_R8XU9D  XM8
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 1193 -1 0 1129
 box -211 -519 211 519
 use sky130_fd_pr__nfet_01v8_TGNW9T  XM9
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 1402 -1 0 707
 box -201 -300 201 300
 use sky130_fd_pr__nfet_01v8_TGNW9T  XM10
-timestamp 1731262622
+timestamp 1731265361
 transform 0 1 1402 -1 0 391
 box -201 -300 201 300
 << labels >>
-flabel metal2 s -262 735 -210 787 0 FreeSans 1250 0 0 0 OUT
+flabel metal2 s -262 735 -210 787 0 FreeSans 1000 0 0 0 OUT
 port 1 nsew
-flabel metal2 s 750 726 806 782 0 FreeSans 1250 0 0 0 OUTN
+flabel metal2 s 750 726 806 782 0 FreeSans 1000 0 0 0 OUTN
 port 2 nsew
-flabel metal2 s -1118 1728 -1052 1794 0 FreeSans 1250 0 0 0 INN
+flabel metal2 s -1118 1728 -1052 1794 0 FreeSans 1000 0 0 0 INN
 port 3 nsew
-flabel metal2 s -1118 1412 -1052 1478 0 FreeSans 1250 0 0 0 INP
+flabel metal2 s -1118 1412 -1052 1478 0 FreeSans 1000 0 0 0 INP
 port 4 nsew
-flabel metal1 s 237 1875 336 1972 0 FreeSans 1250 0 0 0 VDD
+flabel metal1 s 237 1875 336 1972 0 FreeSans 1000 0 0 0 VDD
 port 5 nsew
-flabel metal1 s 252 180 351 277 0 FreeSans 1250 0 0 0 VSS
+flabel metal1 s 252 180 351 277 0 FreeSans 1000 0 0 0 VSS
 port 6 nsew
 << end >>
